@@ -5,7 +5,6 @@ Get-AppxPackage *zune* | Remove-AppxPackage
 Get-AppxPackage *solitaire* | Remove-AppxPackage
 Get-AppxPackage *bing* | Remove-AppxPackage
 Get-AppxPackage *weather* | Remove-AppxPackage
-Get-AppxPackage *people* | Remove-AppxPackage
 Get-AppxPackage *maps* | Remove-AppxPackage
 Get-AppxPackage *gethelp* | Remove-AppxPackage
 Get-AppxPackage *feedbackhub* | Remove-AppxPackage
